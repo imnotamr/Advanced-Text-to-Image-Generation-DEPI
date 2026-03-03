@@ -6,8 +6,8 @@ A state-of-the-art image generation pipeline combining **LLM prompt enhancement*
 
 ## 📖 Overview
 
-**DEPI_Txt2Img_Gen** transforms simple text ideas into high-quality AI-generated images. Using **Google Gemini** for prompt enhancement, your basic description becomes a professional-grade prompt ready for **SDXL** or **Kandinsky 2.2**, producing photorealistic or artistic visuals without mastering prompt engineering.
-
+**Txt2Img_Gen** transforms simple text ideas into high-quality AI-generated images. Using **Google Gemini** for prompt enhancement, your basic description becomes a professional-grade prompt ready for **SDXL** or **Kandinsky 2.2**, producing photorealistic or artistic visuals without mastering prompt engineering.
+[ as a part of DEPI Graduation Project ] 
 ---
 
 ## ⚙️ System Architecture
